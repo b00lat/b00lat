@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @cdkulat
 - 👀 I’m interested in AI, IT services, and software development!
 - 🌱 I’m currently learning IT Support Specialization, Software Engineering, and Data Communications!
-- 💞️ I’m looking to collaborate on portfolio projects!
+- 💞 Big project at the moment is a portfolio webpage - showcasing projects,
+      interests, resume, socials and more using HTML and Go.
 - 📫 How to reach me: Email - cdkulat1@gmail.com, Twitter - @christiankulat
 
 <!---
