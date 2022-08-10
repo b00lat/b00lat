@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, IT services, and software development!
 - 🌱 I’m currently learning IT Support Specialization, Software Engineering, and Data Communications!
 - 💞 Big project at the moment is a portfolio webpage - showcasing projects,
-      interests, resume, socials and more using HTML and Go.
+      interests, resume, socials and more using React and Go.
 - 📫 How to reach me: Email - cdkulat1@gmail.com, Twitter - @christiankulat
 
 <!---
