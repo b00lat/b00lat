@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cdkulat
-- 👀 I’m interested in AI, IT services, and software development!
-- 🌱 I’m currently learning IT Support Specialization, Software Engineering, and Data Communications!
-- 💞 Big project at the moment is a portfolio webpage - showcasing projects,
-      interests, resume, socials and more using React and Go.
+- 👀 I’m interested in microservices, web applications, and cloud computing!
+- 🌱 I’m currently learning 
+- 💞 My current project is a ticketing application using Go, where users can submit support tickets and admins
+can change their status and manage users.
 - 📫 How to reach me: Email - cdkulat1@gmail.com, Twitter - @christiankulat
 
 <!---
